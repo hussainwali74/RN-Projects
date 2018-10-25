@@ -1,0 +1,3 @@
+rootProject.name = 'dictio'
+
+include ':app'
